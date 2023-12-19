@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.body {
+  display: flex;
+}
+.content-card {
+  background-color: #f1f5f9;
+  flex-grow: 1;
+  padding: 10px;
+}
+.#f1f5f9 {
+  background-color: #e2e8f0;
+  flex-grow: 1;
+  padding: 10px;
+}
